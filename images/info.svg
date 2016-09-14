@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="595px" height="440px" viewBox="0 0 595 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>info</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="info">
+            <polygon id="Line" stroke="#E9838C" stroke-width="3" stroke-linecap="square" fill="#F4C1C5" points="97.8077128 219.749378 554.5 169.5 554.5 219.749378"></polygon>
+            <polygon id="Path-4-Copy" fill-opacity="0.12" fill="#488EE3" points="38.6778443 299.5 97.0445858 299.5 97.0445858 349.5 314.873406 349.5 314.873406 258.765507 555.432619 258.765507 555.432619 399.874544 38.6778443 399.874546"></polygon>
+            <path d="M97.7578125,220.154672 C97.7578125,-114.880836 191.506622,220.154666 555.717804,220.154673" id="Path-1-Copy" fill="#ABDDA4"></path>
+            <path d="M97.5,62.5 L97.5,348.03418" id="Line" stroke="#DEDEDE" stroke-width="3" stroke-linecap="square" stroke-dasharray="1"></path>
+            <path d="M314.5,60.5 L314.5,349.03418" id="Line-Copy" stroke="#DEDEDE" stroke-width="3" stroke-linecap="square" stroke-dasharray="1"></path>
+            <path d="M98.5,220.5 L555.5,220.5" id="Line" stroke="#DEDEDE" stroke-width="3" stroke-linecap="square" stroke-dasharray="1"></path>
+            <path d="M304.5,269.5 L304.5,294.749378" id="Line-Copy-5" stroke="#E9838C" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M105.5,306.5 L105.5,341.749378" id="Line-Copy-6" stroke="#E9838C" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M314.5,167.5 L314.5,219.749378" id="Line-Copy-2" stroke-opacity="0.5" stroke="#3D7600" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M304.5,297 L304.5,342.249378" id="Line-Copy-3" stroke="#85A95F" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M554.5,196.5 L554.5,219.749378" id="Line-Copy-4" stroke="#D53E4F" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M98.5,219.5 L314.607497,195.804003" id="Line" stroke="#D53E4F" stroke-width="3" stroke-linecap="square"></path>
+            <polyline id="Path-4" stroke="#488EE3" stroke-width="3" points="38.6778443 299.5 97.0445858 299.5 97.0445858 349.5 314.873406 349.5 314.873406 258.765507 555.432619 258.765507"></polyline>
+            <path d="M97.7578125,220.154672 C97.7578125,-114.880836 191.506622,220.154666 555.717804,220.154673" id="Path-1" stroke="#3D7600" stroke-width="3"></path>
+            <path d="M39.5,220.5 L97.7114868,220.5" id="Line" stroke="#3D7600" stroke-width="3" stroke-linecap="square"></path>
+            <circle id="Oval-1" fill="#3D7600" cx="98" cy="220" r="6"></circle>
+            <circle id="Oval-1-Copy" fill="#3D7600" cx="315" cy="165" r="6"></circle>
+            <circle id="Oval-1-Copy-2" fill="#D53E4F" cx="315" cy="195" r="6"></circle>
+            <text id="Buy" font-family="sans-serif" font-size="16" font-weight="bold" fill="#1A1A1A">
+                <tspan x="83.4023438" y="50">Buy</tspan>
+            </text>
+            <text id="Artwork" font-family="sans-serif" font-size="24" font-weight="bold" fill="#3D7600">
+                <tspan x="133" y="160">Artwork</tspan>
+            </text>
+            <text id="Interest" font-family="sans-serif" font-size="24" font-weight="bold" fill="#D53E4F">
+                <tspan x="433.304688" y="160">Interest</tspan>
+            </text>
+            <text id="Funds" font-family="sans-serif" font-size="24" font-weight="bold" fill="#488EE3">
+                <tspan x="451.117188" y="330">Funds</tspan>
+            </text>
+            <text id="Sell" font-family="sans-serif" font-size="16" font-weight="bold" fill="#1A1A1A">
+                <tspan x="301.015625" y="50">Sell</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

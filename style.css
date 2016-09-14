@@ -1,0 +1,132 @@
+html {
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 1em;
+  line-height: 1.5;
+  hy­phens: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 0.025rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+img {
+  max-width: 100%;
+}
+a, p {
+  color: inherit;
+  font-size: inherit;
+}
+
+a {
+  color: #08A858;
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+p {
+  margin: 1em 0;
+}
+.btn {
+  padding: 0 0.4375em;
+  display: inline-block;
+  border-radius: 0.21875em;
+}
+.btn-line {
+  border: 1px solid #08A858;
+  background-color: transparent;
+  color: #08A858;
+}
+.btn-line:hover, .btn-line:active {
+  background-color: #08A858;
+  color: white;
+}
+.box-flex {
+  display: flex;
+  justify-content: center;
+
+}
+.box-fill-height {
+  min-height: 100vh;
+}
+.flex-col {
+  flex-direction: column;
+}
+.item-flex {
+  flex: 1;
+}
+.align-center {
+  align-items: center;
+}
+.txt-right {
+  text-align: right;
+}
+.txt-center {
+  text-align: center;
+}
+.text-lt {
+  opacity: 0.5;
+  font-weight: normal;
+}
+.box-txt {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.box-txt-sm {
+  width: 30em;
+}
+.box-txt-lg {
+  width: 40em;
+}
+.item {
+  padding: 1em;
+}
+@media print {
+  *, *:before, *:after {
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important
+  }
+  @page {
+    margin: 90pt 50pt
+  }
+  html, body {
+    font-size: 9pt
+  }
+  html {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    background: transparent !important
+  }
+  body {
+    margin: 0 auto;
+    padding: 0
+  }
+  .box-page {
+    max-width: 350pt;
+    padding: 0
+  }
+  h1, h2, h3, h4, h5, h6, img {
+    page-break-inside: avoid;
+    page-break-after: avoid;
+    break-after: avoid
+  }
+  .box-page:last-child {
+    page-break-after: avoid
+  }
+  p {
+    widows: 2;
+    orphans: 2
+  }
+}

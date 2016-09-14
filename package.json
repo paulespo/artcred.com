@@ -1,0 +1,21 @@
+{
+  "name": "@evanpaschke/debtdom.com",
+  "version": "1.0.0",
+  "description": "Debtdom Static Website",
+  "main": "index.html",
+  "repository":"https://github.com/evanpaschke/debtdom.com",
+  "private": true,
+  "scripts": {
+    "build": "gulp css",
+    "dev": "gulp watch"
+  },
+  "author": "Evan Paschke",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^6.3.7",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.1.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "postcss-normalize": "^0.3.0"
+  }
+}

@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /build
 Disallow: /graphics
 Disallow: /images
 Disallow: /partials

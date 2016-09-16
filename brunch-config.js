@@ -13,6 +13,7 @@ module.exports = {
     }
   },
   paths: {
+    watched: ['src'],
     public: 'build'
   }
 };

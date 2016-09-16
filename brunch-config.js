@@ -1,7 +1,7 @@
 // See http://brunch.io for documentation.
 module.exports = {
   files: {
-    stylesheets: { joinTo: 'app.css' },
+    stylesheets: { joinTo: 'style.css' },
   },
   plugins: {
     postcss: {

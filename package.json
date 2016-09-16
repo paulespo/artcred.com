@@ -6,16 +6,18 @@
   "repository":"https://github.com/evanpaschke/artcred.com",
   "private": true,
   "scripts": {
-    "build": "gulp css",
-    "dev": "gulp watch"
+    "start": "brunch watch --server",
+    "build": "brunch build --production"
   },
   "author": "Evan Paschke",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^6.3.7",
-    "gulp": "^3.9.1",
-    "gulp-postcss": "^6.1.1",
-    "gulp-sourcemaps": "^1.6.0",
-    "postcss-normalize": "^0.3.0"
+    "auto-reload-brunch": "^2.0.0",
+    "autoprefixer": "^6.4.0",
+    "brunch": "^2.0.0",
+    "clean-css-brunch": "^2.0.0",
+    "postcss-brunch": "^2.0.2",
+    "postcss-normalize": "^0.3.0",
+    "postcss-simple-vars": "^3.0.0"
   }
 }

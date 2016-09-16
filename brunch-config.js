@@ -6,7 +6,6 @@ module.exports = {
   plugins: {
     postcss: {
       processors: [
-        require('postcss-import'),
         require('postcss-simple-vars'),
         require('postcss-normalize'),
         require('autoprefixer')
